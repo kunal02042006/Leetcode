@@ -36,13 +36,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kunal02042006/Leetcode/tree/master/0283-move-zeroes) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kunal02042006/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunal02042006/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kunal02042006/Leetcode/tree/master/0069-sqrtx) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kunal02042006/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kunal02042006/Leetcode/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kunal02042006/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
