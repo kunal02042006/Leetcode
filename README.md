@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kunal02042006/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kunal02042006/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/kunal02042006/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunal02042006/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/kunal02042006/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
