@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kunal02042006/Leetcode/tree/master/0001-two-sum) |
+| [0074-search-a-2d-matrix](https://github.com/kunal02042006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kunal02042006/Leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunal02042006/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kunal02042006/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/kunal02042006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunal02042006/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kunal02042006/Leetcode/tree/master/0191-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/kunal02042006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
