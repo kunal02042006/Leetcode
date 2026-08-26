@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kunal02042006/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/kunal02042006/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
 ## Array
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kunal02042006/Leetcode/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunal02042006/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kunal02042006/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kunal02042006/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
