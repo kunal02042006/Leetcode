@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kunal02042006/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kunal02042006/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/kunal02042006/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kunal02042006/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kunal02042006/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kunal02042006/Leetcode/tree/master/0342-power-of-four) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kunal02042006/Leetcode/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kunal02042006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/kunal02042006/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kunal02042006/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/kunal02042006/Leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunal02042006/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -87,4 +89,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kunal02042006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kunal02042006/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kunal02042006/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kunal02042006/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kunal02042006/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kunal02042006/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kunal02042006/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
