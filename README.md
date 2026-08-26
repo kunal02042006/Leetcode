@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kunal02042006/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kunal02042006/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kunal02042006/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1009-complement-of-base-10-integer](https://github.com/kunal02042006/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
