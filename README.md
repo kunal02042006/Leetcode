@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/kunal02042006/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kunal02042006/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kunal02042006/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kunal02042006/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kunal02042006/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kunal02042006/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kunal02042006/Leetcode/tree/master/0342-power-of-four) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kunal02042006/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
