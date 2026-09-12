@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kunal02042006/Leetcode/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kunal02042006/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kunal02042006/Leetcode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kunal02042006/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kunal02042006/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kunal02042006/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/kunal02042006/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kunal02042006/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kunal02042006/Leetcode/tree/master/0342-power-of-four) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kunal02042006/Leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kunal02042006/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
