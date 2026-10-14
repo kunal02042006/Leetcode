@@ -155,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kunal02042006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kunal02042006/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
