@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kunal02042006/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kunal02042006/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/kunal02042006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/kunal02042006/Leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/kunal02042006/Leetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kunal02042006/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kunal02042006/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kunal02042006/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/kunal02042006/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kunal02042006/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kunal02042006/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kunal02042006/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kunal02042006/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/kunal02042006/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kunal02042006/Leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunal02042006/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kunal02042006/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kunal02042006/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/kunal02042006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kunal02042006/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/kunal02042006/Leetcode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kunal02042006/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
 |  |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kunal02042006/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/kunal02042006/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kunal02042006/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kunal02042006/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kunal02042006/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kunal02042006/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1009-complement-of-base-10-integer](https://github.com/kunal02042006/Leetcode/tree/master/1009-complement-of-base-10-integer) |
@@ -159,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kunal02042006/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/kunal02042006/Leetcode/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
