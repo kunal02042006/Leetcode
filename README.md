@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kunal02042006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kunal02042006/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kunal02042006/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/kunal02042006/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kunal02042006/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kunal02042006/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kunal02042006/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/kunal02042006/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kunal02042006/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kunal02042006/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kunal02042006/Leetcode/tree/master/0268-missing-number) |
