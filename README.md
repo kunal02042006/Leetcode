@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kunal02042006/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kunal02042006/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kunal02042006/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kunal02042006/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/kunal02042006/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kunal02042006/Leetcode/tree/master/0231-power-of-two) |
@@ -143,11 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kunal02042006/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kunal02042006/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/kunal02042006/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kunal02042006/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kunal02042006/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/kunal02042006/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
