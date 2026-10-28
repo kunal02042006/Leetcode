@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kunal02042006/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kunal02042006/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kunal02042006/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/kunal02042006/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kunal02042006/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kunal02042006/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kunal02042006/Leetcode/tree/master/0189-rotate-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kunal02042006/Leetcode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/kunal02042006/Leetcode/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/kunal02042006/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kunal02042006/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kunal02042006/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/kunal02042006/Leetcode/tree/master/0088-merge-sorted-array) |
