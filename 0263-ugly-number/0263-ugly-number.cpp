@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isUgly(int n) {
+        // '/' quotient deta hai, '%' remainder; divisible check karne ke liye n % divisor == 0 use karte hain.
         if(n==0 || n<0){
             return false;
         }
@@ -18,6 +19,6 @@ public:
         }
 
         return false;
-    }
+    }   
     
 };
