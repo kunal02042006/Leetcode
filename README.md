@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kunal02042006/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/kunal02042006/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kunal02042006/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kunal02042006/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/kunal02042006/Leetcode/tree/master/0443-string-compression) |
@@ -194,9 +195,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kunal02042006/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/kunal02042006/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kunal02042006/Leetcode/tree/master/0148-sort-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kunal02042006/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
