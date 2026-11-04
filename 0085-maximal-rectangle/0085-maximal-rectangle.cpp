@@ -53,7 +53,6 @@ private:
             }
 
             int b = next[i] - prev[i] - 1;
-
             int newArea = l * b;
 
             area = max(area, newArea);
@@ -63,7 +62,6 @@ private:
     }
 
 public:
-
     int maximalRectangle(vector<vector<char>>& matrix) {
 
         if(matrix.empty() || matrix[0].empty())
@@ -74,15 +72,22 @@ public:
 
         vector<int> heights(m, 0);
 
-        int area = 0;
+        // Step 1: First row se histogram calculate karo
+        for(int j = 0; j < m; j++) {
+            if(matrix[0][j] == '1') {
+                heights[j] = 1;
+            }
+        }
 
-        for(int i = 0; i < n; i++) {
+        int area = largestRectangleArea(heights);
+
+        // Step 2: Remaining rows update karo
+        for(int i = 1; i < n; i++) {
 
             for(int j = 0; j < m; j++) {
 
-                // '1' mila toh height increase hogi
                 if(matrix[i][j] == '1') {
-                    heights[j]++;
+                    heights[j] = heights[j] + 1;
                 }
                 else {
                     heights[j] = 0;
